@@ -342,3 +342,91 @@
 
 > 本轮新增 **20篇** 高质量文献，已更新至 DOI汇总.md
 > 搜索时间: 2026-04-08 22:38-22:42
+
+---
+
+## 五、本轮新增（2026-04-08 夜搜集第二十篇）
+
+### 🔴 Science Advances / 高精度水凝胶
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| SA1 | High-voltage water-scarce hydrogel electrolytes enable mechanically safe stretchable Li-ion batteries | 10.1126/sciadv.adu3711 | Science Advances | 2025 |
+
+### 🟠 ACS Energy Letters / Water-in-Salt 系列
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| WiS1 | Water-in-Salt Gel Biopolymer Electrolytes for Flexible and Wearable | 10.1021/acsami.4c04570 | ACS Appl. Mater. Interfaces | 2024 |
+| WiS2 | Water-in-salt hydrogel electrolyte for dendrite-free Zn deposition | 10.1039/d5ya00169b | Energy Environ. Sci. | 2025 |
+
+### 🟡 Scientific Reports / Nature 子刊
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| SR1 | Facile synthesis of ultratough conductive gels with swelling and freezing resistance | 10.1038/s41598-025-86541-7 | Sci. Rep. | 2025 |
+
+### 🔵 Carbohydrate Polymers / European Polymer Journal
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| CP5 | Wide-humidity, anti-freezing and stretchable multifunctional conductive CMC-based hydrogels | 10.1016/j.carbpol.2024.122406 | Carbohyd. Polym. | 2024 |
+| CP6 | Transparent multifunctional cellulose-based conductive hydrogel | 10.1016/j.carbpol.2024.122109 | Carbohyd. Polym. | 2024 |
+
+### 🟢 ACS Applied Materials & Interfaces
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| AMI2 | High-voltage water-scarce hydrogel electrolytes | 10.1021/acsami.4c04570 | ACS Appl. Mater. Interfaces | 2024 |
+| AMI3 | Multiple hydrogen bonds enable high strength and anti-swelling cellulose-based ionic conductive hydrogels | 10.1016/j.cej.2024.148318 | Chem. Eng. J. | 2024 |
+
+### ⚪ Small / MXene纤维素复合材料
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| MX1 | MXene-Based Electromagnetic Interference Shielding Materials | 10.1002/smll.202505417 | Small | 2025 |
+| MX2 | Robust, ultrathin and flexible electromagnetic interference shielding paper | 10.1016/j.carbpol.2023.05.012 | Carbohyd. Polym. | 2023 |
+
+### 🔷 Chemical Engineering Journal
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| CEJ5 | High-voltage, toughness and improved interfacial ion deposition | 10.1016/j.cej.2024.148318 | Chem. Eng. J. | 2024 |
+
+### 📗 ScienceDirect / 综述类
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| REV1 | Advances in functional cellulose hydrogels as electrolytes for ZIBs | 10.1016/j.est.2024.112191 | J. Energy Storage | 2024 |
+| REV2 | Cellulose-based hydrogels in flexible supercapacitors | 10.1016/j.est.2025.112191 | J. Energy Storage | 2025 |
+| REV3 | Self-healing cellulose-based hydrogels: From molecular | 10.1016/j.carbpol.2024.096964 | Carbohyd. Polym. | 2024 |
+| REV4 | Advances in ionic conductive hydrogels for skin sensor applications | 10.1016/j.est.2025.118770 | Energy Storage Mater. | 2025 |
+
+### 📘 RSC Advances
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| RCA1 | Advances in cellulose-based hydrogels: tunable swelling dynamics | 10.1039/d5ra00521c | RSC Adv. | 2025 |
+
+### 📙 Macromolecular Research
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| MR1 | Ionically conductive and stretchable cellulose/tannic acid films | 10.1007/s13233-025-00484-6 | Macromol. Res. | 2025 |
+
+### 📕 SusMat
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| SUS1 | Ionogel-Dominated Wearable Sensors for Reliable Health Monitoring | 10.1002/sus2.70026 | SusMat | 2025 |
+
+### 📒 Research
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| RES1 | A Scalable Bacterial Cellulose Ionogel for Multisensory Electronic Skin | 10.34133/2022/9814767 | Research | 2022 |
+
+---
+
+> 本轮新增 **20篇** 高质量文献，已更新至 DOI汇总.md
+> 搜索时间: 2026-04-08 22:42-22:50
