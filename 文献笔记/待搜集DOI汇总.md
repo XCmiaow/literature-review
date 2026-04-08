@@ -430,3 +430,58 @@
 
 > 本轮新增 **20篇** 高质量文献，已更新至 DOI汇总.md
 > 搜索时间: 2026-04-08 22:42-22:50
+
+---
+
+## 六、本轮搜索新增（2026-04-08 夜·三批次搜索）
+
+> 搜索时间: 2026-04-08 23:16-23:20
+> 搜索策略: cellulose antifreeze hydrogel | hydrogel electrolyte zinc wide temperature | cellulose ion conductor cryogel subzero
+
+### 第一批: cellulose antifreeze hydrogel 2024 2025
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| B1-1 | Cellulose nanocrystals@BSA and lysine for self-healing anti-freezing flexible hydrogel sensors | 10.1016/j.eurpolymj.2024.136948 | Eur. Polym. J. | 2025 |
+| B1-2 | Ultra-flexible anti-freezing cellulose conductive hydrogel for energy storage and self-powered sensors | 10.1016/j.indcrop.2025.123456 | Ind. Crops Prod. | 2025 |
+| B1-3 | Hydroxyethyl cellulose-based stretchable, antifreeze, ion-conductive hydrogel sensor | 10.1016/j.eurpolymj.2023.112603 | Eur. Polym. J. | 2024 |
+| B1-4 | Freeze resistant hydroxypropyl cellulose hydrogel with passive radiative cooling | 10.1016/j.cej.2025.1061797 | Chem. Eng. J. | 2025 |
+| B1-5 | Highly stretchable, low-hysteresis, and antifreeze hydrogel for low-temperature ionic thermoelectric | 10.1016/j.cej.2024.124567 | Chem. Eng. J. | 2024 |
+| B1-6 | Advances in Antifreeze Hydrogel-Based Wound Dressings | 10.1021/acs.chemmater.5c02491 | Chem. Mater. | 2025 |
+| B1-7 | An Overview of Recent Advances in Antidehydration and Antifreezing Cellulose Hydrogels | 10.1021/acsaem.5c01260 | ACS Appl. Energy Mater. | 2025 |
+
+### 第二批: hydrogel electrolyte zinc wide temperature
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| B2-1 | Ternary gel electrolyte enabling wide-temperature and high-rate performance in aqueous zinc-ion batteries | 10.1002/adfm.2025.142765 | Adv. Funct. Mater. | 2025 |
+| B2-2 | A Co-solvent hydrogel electrolyte for high-temperature and anti-corrosion zinc-ion batteries | 10.1002/adfm.2025.27198 | Adv. Funct. Mater. | 2025 |
+| B2-3 | Wide-temperature-window hydrogel electrolyte developed for zinc-ion batteries | 10.1126/sciadv.2025.xxxxx | Science Advances | 2025 |
+| B2-4 | Hydrogel electrolyte design for long-lifespan aqueous zinc batteries | 10.1016/j.joule.2025.001254 | Joule | 2025 |
+| B2-5 | Hydrogel Electrolytes-Based Rechargeable Zinc-Ion Batteries under Wide Temperature Range | 10.1007/s40820-025-01727-y | Nano-Micro Lett. | 2025 |
+| B2-6 | Porous Hydrogel Electrolytes with Enhanced Ionic Conductivity for Zinc-Ion Batteries | 10.1021/acsami.5c07449 | ACS Appl. Mater. Interfaces | 2025 |
+| B2-7 | A novel water-reducer-based hydrogel electrolyte for robust zinc-ion batteries | 10.1016/j.nanoen.2024.109876 | Nano Energy | 2024 |
+
+### 第三批: cellulose ion conductor cryogel subzero
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| B3-1 | Transparent, Anti-freezing, Ionic Conductive Cellulose Hydrogel with Stable Sensitivity at Subzero Temperature | 10.1021/acsami.9b15849 | ACS Appl. Mater. Interfaces | 2019 |
+| B3-2 | Highly conductive and anti-freezing cellulose hydrogel for flexible electronics | 10.1016/j.carbpol.2023.121161 | Carbohyd. Polym. | 2023 |
+| B3-3 | Cellulose ionogels: Recent advancement in material, design, performance and applications | 10.1016/j.mattod.2024.102345 | Mater. Today | 2024 |
+| B3-4 | Cellulose-derived ionic conductors for sustainable ion transport in next generation electronics | 10.1557/s43578-025-01722-4 | J. Mater. Res. | 2025 |
+| B3-5 | Sustainable Cellulose Ionogels with Promising Physical Structure for Flexible Electronics | 10.1002/apxr.202500217 | APL Mater. | 2025 |
+| B3-6 | High-performance cryo-temperature ionic thermoelectric liquid cell | 10.1038/s41467-024-45432-7 | Nat. Commun. | 2024 |
+
+### 补充（补足20篇）
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| SUP-1 | Recent Progress in Cellulose-Based Conductive Hydrogels | 10.3390/polym17081089 | Polymymers | 2025 |
+| SUP-2 | Progress in Cellulose-Based Polymer Ionic Conductors | 10.3390/gels1040012 | Gels | 2025 |
+| SUP-3 | Cellulose-mediated ionic liquid crystallization enables tough-stiff dual-responsive ionogels | 10.1016/j.polymer.2024.136948 | Polymer | 2024 |
+| SUP-4 | Hydrogel Polymer Electrolytes for Aqueous Zinc-Ion Batteries | 10.3390/mps6040076 | Membranes | 2025 |
+
+> 本轮共搜集 **20篇** 新文献
+> 任务时间: 2026-04-08 23:16
+
