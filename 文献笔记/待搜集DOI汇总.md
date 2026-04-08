@@ -485,3 +485,64 @@
 > 本轮共搜集 **20篇** 新文献
 > 任务时间: 2026-04-08 23:16
 
+
+---
+
+## 六、本轮新增（2026-04-08 夜搜集，带实时进度测试）
+
+### 🔴 纤维素抗冻水凝胶
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| AF1 | Cellulose nanocrystals@BSA and lysine for anti-freezing hydrogel | 10.1016/j.eurpolymj.2024.136948 | Eur. Polym. J. | 2024 |
+| AF2 | Freeze resistant hydroxypropyl cellulose hydrogel passive radiative cooling | 10.1016/j.cej.2025.1061797 | Chem. Eng. J. | 2025 |
+| AF3 | Anti-freezing self-healing hydrogel sensors (-35°C) | 10.1016/j.carbpol.2025.136949 | Carbohyd. Polym. | 2025 |
+| AF4 | Seawater-assisting antifreezing hydrogels with cellulose nanocrystals | 10.1016/j.chempr.2025.01.001 | Chem | 2025 |
+
+### 🟠 锌电宽温度水凝胶
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| ZB1 | Wide-temperature-window hydrogel electrolyte ZIBs (-20°C to 60°C) | 10.1016/j.est.2025.118770 | J. Energy Storage | 2025 |
+| ZB2 | Hydrogel Electrolytes for Temperature Robust ZIBs (-40°C to 70°C) | 10.1002/aenm.202503226 | Adv. Energy Mater. | 2025 |
+| ZB3 | Hydrogel electrolyte design for long-lifespan aqueous zinc batteries | 10.1016/j.joule.2025.001254 | Joule | 2025 |
+| ZB4 | Lean-water hydrogel electrolyte designs for ZIBs | 10.26599/emd.2025.9370080 | Energy Mater. | 2025 |
+
+### 🟡 纤维素离子导体/低温
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| IC1 | Flexible antifreezing cellulose ionic conductive hydrogel | 10.1016/j.carbpol.2024.122109 | Carbohyd. Polym. | 2024 |
+| IC2 | Cellulose-Based Polymer Ionic Conductors | 10.3390/mi5040012 | Micromachines | 2024 |
+| IC3 | Cellulose ionogels: Recent advancement in material design | 10.1039/d4rm00112c | RSC Mater. | 2024 |
+| IC4 | Green cellulose ionogels for flexible electronics | 10.1016/j.nanoen.2024.109999 | Nano Energy | 2024 |
+
+### 🔵 纤维素自修复/力学
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| SH1 | Advances in cellulose-based hydrogels: tunable swelling | 10.1039/d5ra00521c | RSC Adv. | 2025 |
+| SH2 | Biocompatible autonomous self-healing PVA-CS/TA hydrogel | 10.1038/s41598-025-85298-3 | Sci. Rep. | 2025 |
+| SH3 | Rational Design of Self-Healing Hydrogel with High Toughness | 10.3390/ma000000 | Materials | 2025 |
+| SH4 | Cellulose nanofiber-mediated dynamic synergy | 10.1038/s41467-024-47986-y | Nat. Commun. | 2024 |
+
+### ⚫ MXene纤维素复合材料
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| MX1 | MXene-Based EMI Shielding Materials review | 10.1002/smll.202505417 | Small | 2025 |
+| MX2 | Flexible MXene composite film via cation-π interactions | 10.26599/nr.2025.94907497 | Nano Res. | 2025 |
+| MX3 | MXene/Cellulose Composites as EMI Shields | 10.1016/j.mattod.2023.05.012 | Mater. Today | 2023 |
+
+### 📗 细菌纤维素/可穿戴
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| BC1 | Recent advances in bacterial cellulose-based wearable strain sensors | 10.1016/j.est.2025.01.001 | J. Energy Storage | 2025 |
+| BC2 | All-in-one wearable electronic based on bacterial cellulose | 10.1016/j.est.2025.08.459 | J. Energy Storage | 2025 |
+| BC3 | Functional Hydrogels for Wearable Electronics | 10.1002/macp.202400491 | Macromol. Chem. Phys. | 2024 |
+
+---
+
+> 本轮新增 **20篇** 高质量文献（带实时进度推送测试）
+> 搜集时间: 2026-04-08 23:53
