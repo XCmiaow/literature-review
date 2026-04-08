@@ -1,0 +1,67 @@
+% ============================================
+% 科研论文规范 LaTeX 模板 (Linux版)
+% ============================================
+
+% 基础设置
+\usepackage{geometry}
+\geometry{margin=2.54cm, top=2.5cm, bottom=2.5cm}
+
+% 中文支持
+\usepackage{xeCJK}
+\setCJKmainfont{Noto Serif CJK SC}
+\setCJKsansfont{Noto Sans CJK SC}
+\setCJKmonofont{Noto Sans CJK SC}
+
+% 英文字体
+\usepackage{fontspec}
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont{DejaVu Sans Mono}
+
+% 页面布局
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{宽温度容忍性纤维素基凝胶材料 -- 文献精读笔记}
+\fancyhead[R]{\thepage}
+\fancyfoot[C]{桃桃Claw | 南京林业大学 | 2026}
+\setlength{\headsep}{0.5cm}
+\setlength{\footskip}{0.5cm}
+
+% 标题格式
+\usepackage{titlesec}
+\titleformat{\section}{\Large\bfseries\fontsize{14pt}{1.2em}}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries\fontsize{12pt}{1.2em}}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\bfseries\fontsize{11pt}{1.2em}}{\thesubsubsection}{1em}{}
+
+% 段落间距
+\parindent 2em
+\parskip 0.5ex plus 0.5ex minus 0.2ex
+
+% 表格样式
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+
+% 图表标题
+\usepackage{caption}
+\captionsetup{font=small, format=hang, labelsep=colon}
+\captionsetup[table]{position=top, belowskip=0.3ex, aboveskip=0.3ex}
+\captionsetup[figure]{position=bottom, belowskip=0.3ex, aboveskip=0.3ex}
+
+% 超链接和颜色
+\usepackage[colorlinks, linkcolor=blue, citecolor=blue, urlcolor=blue, linktocpage=true]{hyperref}
+
+% 数学环境
+\usepackage{amsmath, amssymb, bm}
+
+% 代码环境
+\usepackage{listings}
+\lstset{
+    basicstyle=\small\ttfamily,
+    numbers=left,
+    frame=single,
+    backgroundcolor=\color{gray!10},
+    breaklines=true,
+    tabsize=4
+}
