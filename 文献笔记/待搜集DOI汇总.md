@@ -129,3 +129,82 @@
 | AM1 | Development of Ternary Hydrogel Electrolytes for Gel Thermocells | 10.1002/adma.202420214 | 2025 |
 | AM2 | Stretchable, Adhesive, Anti-Freezing Hydrogel Electrolytes | 10.1002/adma.202509975 | 2025 |
 | AM3 | Anti-Fatigue Hydrogel Electrolyte for Zn-Ion Batteries | 10.1002/adma.202300498 | 2023 |
+
+
+
+
+## 五、新发现的高IF文献（2026-04-08 补充）
+
+### Nature Materials 系列
+| N1 | 3D printable high-performance conducting polymer hydrogel | 10.1038/s41563-023-01569-2 | 2023 | 3D打印导电聚合物水凝胶 |
+| N2 | Squirting-cucumber-inspired miniature explosive hydrogel launcher | 10.1038/s41563-024-02005-9 | 2024 | 微型爆炸水凝胶发射器 |
+
+### Nature Communications 系列
+| NC1 | Strong, tough, ionic conductive, and freezing-tolerant all-natural hydrogel | 10.1038/s41467-022-30224-8 | 2022 | 全天然强韧抗冻水凝胶 ⭐ |
+| NC2 | Highly-stable, injectable, conductive hydrogel for chronic neuromodulation | 10.1038/s41467-024-52418-y | 2024 | 注射导电水凝胶 |
+| NC3 | Highly conductive tissue-like hydrogel through template-directed... | 10.1038/s41467-023-37948-1 | 2023 | 类组织高导电水凝胶 |
+
+### Science Advances 系列
+| SA1 | Mixed-dimensional MXene-hydrogel heterostructures for electronic skin | 10.1126/sciadv.abbn5367 | 2020 | MXene水凝胶电子皮肤 |
+| SA2 | Skin-mimicking multifunctional hydrogel via hierarchical reversible... | 10.1126/sciadv.adv8523 | 2025 | 皮肤仿生多功能水凝胶 |
+| SA3 | ECM-mimetic immunomodulatory hydrogel for MRSA | 10.1126/sciadv.abn7006 | 2022 | 免疫调节水凝胶 |
+
+### Chem 系列
+| C1 | Bio-inspired Hydrogels as Multi-task Anti-icing Hydrogel Coatings | 10.1016/j.chempr.2020.03.015 | 2020 | 仿生抗冻水凝胶涂层 |
+| C2 | Crystalline template for flexible materials | 10.1016/j.chempr.2022.10.016 | 2023 | 柔性材料晶体模板 |
+| C3 | Superprotonic membrane from MOF | 10.1016/j.chempr.2023.05.002 | 2023 | 超质子膜 |
+
+### Joule 系列
+| J1 | Ammonia eurefstics: Electrolytes for liquid energy storage | 10.1016/j.joule.2022.03.001 | 2022 | 氨冷冻电解质 |
+| J2 | Electric-thermal energy storage using solid particles | 10.1016/j.joule.2023.03.016 | 2023 | 电热储能 |
+| J3 | Solar energy storage as salt for cooling | 10.1016/j.joule.2022.02.012 | 2022 | 太阳能储冷 |
+
+### Matter 系列
+| M1 | Flexible conformally adhesive hydrogel electronics | 10.1016/j.matt.2025.102276 | 2025 | 柔性共形粘附水凝胶 |
+| M2 | MXene hydrogel for wearable electronics | 10.1016/j.matt.2021.06.041 | 2021 | MXene水凝胶 |
+
+### ACS Nano 系列
+| AN1 | MXene-Mediated Cellulose Conductive Hydrogel with Ultrastretchability | 10.1021/acsnano.3c08859 | 2023 | MXene纤维素导电水凝胶 |
+| AN2 | Healable, Degradable and Conductive MXene Nanocomposite Hydrogel | 10.1021/acsnano.1c05150 | 2021 | 可愈合降解MXene水凝胶 |
+| AN3 | Terahertz Birefringent Biomimetic Aerogels | 10.1021/acsnano.1c00856 | 2021 | 仿生多孔气凝胶 |
+
+### Carbohydrate Polymers / 其他高IF
+| CP1 | Antifreeze proteins and surface-modified cellulose nanocrystals | 10.1016/j.carbpol.2024.123056 | 2025 | 抗冻蛋白改性CNC |
+
+
+
+
+## 六、专题搜索新增（2026-04-08 第二轮）
+
+### 两性离子水凝胶
+| 两性1 | Multiple Stimuli Responsive Zwitterionic Ionic Conductive Hydrogel | 10.1002/aelm.202000239 | 2020 | Adv. Electron. Mater. |
+
+### 双网络/宽温度
+| 双网1 | High Electrical Conductivity and Low Temperature Resistant DN Hydrogel | 10.1002/slct.202203285 | 2022 | ChemistrySelect ⭐ |
+
+### 纤维素能源存储
+| 能储1 | High strength bacterial cellulose/PANa hydrogel polyelectrolyte | 10.1016/j.est.2024.113629 | 2024 | J. Energy Storage |
+| 能储2 | Recent advances in flexible/stretchable hydrogel electrolytes | 10.1016/j.est.2023.108810 | 2023 | J. Energy Storage |
+
+### Biomimetic/Electronic Skin
+| 生物1 | Biomimetic Self-Adhesive Hydrogel Sensor (Lignin-Alginate) | 10.2139/ssrn.5340570 | SSRN | 待核实 |
+| 电子1 | Ultra-Adherable Dual-Network Conductive Hydrogel | 10.2139/ssrn.4815910 | SSRN | 待核实 |
+
+
+
+
+## 七、核心领域专项搜索（最终轮）
+
+### 锌离子电池水凝胶（重要方向）
+| Z1 | Graphene Enhanced Hydrogel Electrolyte Boost Flexible Zinc Ion Battery | 10.2139/ssrn.5277411 | SSRN | 待核实 |
+
+### Nature Communications 精选
+| NC2 | Highly-stable, injectable, conductive hydrogel for chronic neuromodulation | 10.1038/s41467-024-52418-y | 2024 | 注射导电水凝胶 |
+
+### Journal of Energy Storage 精选
+| JES1 | High strength bacterial cellulose/PANa hydrogel polyelectrolyte | 10.1016/j.est.2024.113629 | 2024 |
+| JES2 | Physically cross-linked carboxymethyl cellulose/chitosan hydrogel | 10.1016/j.est.2025.115980 | 2025 |
+
+### Carbohydrate Polymers 精选
+| CP2 | High transparent, high strength and high energy storage capability | 10.1016/j.carbpol.2026.125274 | 2026 |
+
