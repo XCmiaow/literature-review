@@ -239,3 +239,45 @@
 
 *最后更新: 2026-04-08 21:15*
 *搜集状态: 基本完成，待主人手动获取付费文献*
+
+
+
+
+## 九、专项深度挖掘补充（21:15-21:35）
+
+### 绿色化学/可持续方向
+| 类型 | 标题 | DOI | 期刊 | 年份 |
+|------|------|-----|------|------|
+| Green Chemistry ⭐ | A green bacterial cellulose/PAF hydrogel electrolyte | 10.1039/d5gc06357d | Green Chemistry | 2025 |
+| Curr Opin Green ⭐ | Supercapacitors design with green chemistry: Cellulose-based | 10.1016/j.cogsc.2025.101034 | Curr Opin Green | 2025 |
+
+### 纤维素结构/抗冻机制
+| 类型 | 标题 | DOI | 期刊 | 年份 |
+|------|------|-----|------|------|
+| ACS Nano ⭐ | Cellulose-Based Stimuli-Responsive Anisotropic Hydrogel | 10.1021/acsanm.3c01551 | ACS Appl Nano | 2023 |
+| Eur Polym J | Hydroxyethyl cellulose-based stretchable, antifreeze, ion-conductive | 10.1016/j.eurpolymj.2023.112603 | Eur Polym J | 2024 |
+| ACS Appl Nano | Cellulose-Based Stimuli-Responsive Anisotropic Hydrogel for Sensor | 10.1021/acsanm.3c01551 | ACS Appl Nano | 2023 |
+
+### 南林课题组延伸（鲁东大学陈侯、白良久团队）
+| 类型 | 标题 | DOI | 期刊 | 年份 |
+|------|------|-----|------|------|
+| Carbohyd Polym | Copper sulfide integrated functional cellulose hydrogel | 10.1016/j.carbpol.2023.121161 | Carbohyd Polym | 2023 |
+| Carbohyd Polym | Structure reorganization of cellulose hydrogel by green solvent | 10.1016/j.carbpol.2021.118695 | Carbohyd Polym | 2022 |
+| Carbohyd Polym | Cellulose-based bi-layer hydrogel evaporator | 10.1016/j.carbpol.2023.121695 | Carbohyd Polym | 2024 |
+
+### 最新热点综述
+| 类型 | 标题 | DOI | 期刊 | 年份 |
+|------|------|-----|------|------|
+| Engineering Reports | Prediction of hydrogel swelling using ML | 10.1002/eng2.12893 | Engineering Reports | 2024 |
+| Sustainable | Utilizing Cellulose-Based Hybrid Smart Hydrogel for Tissue Eng | 10.1007/978-981-96-9904-9_6 | Sustain Mater | 2025 |
+
+---
+
+### 重点关注：Green Chemistry 2025这篇 ⭐
+**DOI**: 10.1039/d5gc06357d
+**标题**: A green bacterial cellulose/PAF hydrogel electrolyte guiding ordered Zn deposition
+**意义**: 绿色化学+锌离子电池+纤维素三位一体，与南林方向高度相关
+
+---
+
+*搜集状态：已基本覆盖主要方向，建议主人优先获取Green Chemistry等高IF文献*
