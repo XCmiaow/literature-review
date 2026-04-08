@@ -208,3 +208,34 @@
 ### Carbohydrate Polymers 精选
 | CP2 | High transparent, high strength and high energy storage capability | 10.1016/j.carbpol.2026.125274 | 2026 |
 
+
+
+
+
+## 八、综合补遗（2026-04-08 最终轮）
+
+### 本轮发现的重要文献
+| 类型 | 标题 | DOI | 期刊 | 年份 |
+|------|------|-----|------|------|
+| 抗冻机制 | Antifreezing Proton Zwitterionic Hydrogel Electrolyte via Ion... | 10.1002/advs.202201679 | Adv. Sci. | 2022 |
+| 纤维素储能 | Lignin hydrogel-derived hierarchical porous carbon | 10.1016/j.est.2024.112191 | J. Energy Storage | 2024 |
+| 纤维素储能 | One-tube self-activation of hydrogel for preparation | 10.1016/j.est.2025.118770 | J. Energy Storage | 2025 |
+| 纤维素CCS | High-strength, highly conductive woven organic hydrogel | 10.1016/j.cej.2021.131172 | CEJ | 2022 |
+| 细菌纤维素 | Self-chargeable zinc-ion hybrid supercapacitor | 10.1007/s10570-021-04278-8 | Cellulose | 2021 |
+| CNC抗冻 | Antifreeze proteins and surface-modified CNC | 10.1016/j.carbpol.2024.123056 | Carbohyd. Polym. | 2025 |
+
+### 已搜集文献期刊分布统计
+
+| 期刊类型 | 数量 | 代表期刊 |
+|----------|------|---------|
+| Nature/Science子刊 | 8+ | Nature Materials, Nature Communications, Science Advances |
+| 顶级化学期刊 | 10+ | Chem, JACS, Angew, Chem. Rev. |
+| 材料顶刊 | 15+ | Adv. Mater., Adv. Funct. Mater., Adv. Sci. |
+| 能源顶刊 | 8+ | Energy Environ. Sci., Joule, Energy Storage Mater. |
+| 工程类顶刊 | 10+ | CEJ, Small, ACS Nano, Nano Lett. |
+| 综述期刊 | 5+ | Prog. Polym. Sci., Mater. Horiz. |
+
+---
+
+*最后更新: 2026-04-08 21:15*
+*搜集状态: 基本完成，待主人手动获取付费文献*
