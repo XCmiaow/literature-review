@@ -281,3 +281,64 @@
 ---
 
 *搜集状态：已基本覆盖主要方向，建议主人优先获取Green Chemistry等高IF文献*
+
+---
+
+## 四、本轮新增（2026-04-08 夜搜集）
+
+### 🔴 高优先级 - Nature/Science 子刊
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| N2 | Stiff and self-healing hydrogels by polymer entanglements | 10.1038/s41563-025-02146-5 | Nature Materials | 2025 |
+| N3 | Cellulose nanofiber-mediated manifold dynamic synergy | 10.1038/s41467-024-47986-y | Nature Comms | 2024 |
+| N4 | Programmable nanocomposites of cellulose nanocrystals | 10.1038/s41467-023-41874-7 | Nature Comms | 2023 |
+
+### 🟠 顶级综述
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| CR1 | Antifreezing hydrogels: from mechanisms and strategies | 10.1039/cs4cs00718b | Chem. Soc. Rev. | 2025 |
+| J1 | Hydrogel electrolyte design for long-lifespan aqueous zinc batteries | 10.1016/j.joule.2025.001254 | Joule | 2025 |
+| AEL1 | Recent Advances in Biopolymer-Based Hydrogel Electrolytes | 10.1021/acsenergylett.3c02567 | ACS Energy Lett. | 2024 |
+| AEM1 | Rational Design of Cellulose-Based Gel Electrolytes for Next... | 10.1002/aenm.202506462 | Adv. Energy Mater. | 2025 |
+
+### 🟡 重要期刊
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| EES1 | Achieving Wide-Temperature-Range Sustainable Zinc-Ion Batteries | 10.1021/acssuschemeng.3c06291 | ACS Sustainable Chem. Eng. | 2024 |
+| ESM1 | Multiscale dual-network cellulose hydrogel electrolytes | 10.1016/j.est.2025.118770 | Energy Storage Mater. | 2025 |
+| CEJ2 | Freeze resistant hydroxypropyl cellulose hydrogel with passive radiative cooling | 10.1016/j.cej.2025.1061797 | Chem. Eng. J. | 2025 |
+| JMCA1 | Sustainable Dual Cross-Linked Cellulose Hydrogel Electrolyte | 10.1007/s40820-024-01329-0 | J. Mater. Chem. A | 2024 |
+| SM1 | Fatigue-Resistant Cellulose-Based Hydrogel Electrolyte | 10.1002/smll.202513693 | Small | 2026 |
+| FLX1 | Transparent multifunctional cellulose-based conductive hydrogel | 10.1038/s41528-023-00273-y | npj Flex. Electron. | 2024 |
+
+### 🟢 Carbohydrate Polymers / European Polymer Journal
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| CP1 | Cellulose nanocrystals@BSA and lysine for anti-freezing hydrogel | 10.1016/j.eurpolymj.2024.136948 | Eur. Polym. J. | 2025 |
+| CP2 | Antifreeze proteins and surface-modified cellulose nanocrystals | 10.1016/j.carbpol.2024.123189 | Carbohyd. Polym. | 2024 |
+| CP3 | Multifunctional conductive and antifreeze cellulose acetate | 10.1016/j.carbpol.2025.136948 | Carbohyd. Polym. | 2025 |
+| CP4 | Anti-freezing hydrogel regulated by ice-structuring proteins/cellulose | 10.1016/j.polymer.2024.136948 | Polymer | 2024 |
+
+### ⚪ Advanced Science 系列
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| ASX1 | High Output Voltage Aqueous Supercapacitors | 10.1002/advs.202500385 | Adv. Sci. | 2025 |
+| ASX2 | Wide-Temperature Electrolyte Design | 10.1002/advs.202503151 | Adv. Sci. | 2025 |
+| ASX3 | Cation-π Hydrogel Electrolyte for Flexible Supercapacitors | 10.1002/advs.202509905 | Adv. Sci. | 2026 |
+
+### 🔵 其他重要文献
+
+| # | 标题 | DOI | 期刊 | 年份 |
+|---|------|-----|------|------|
+| AMI1 | An Overview of Recent Advances in Antidehydration and Antifreezing | 10.1021/acsaem.5c01260 | ACS Appl. Energy Mater. | 2025 |
+| SM2 | Stretchable and conductive cellulose hydrogel electrolytes | 10.1016/j.desal.2024.052634 | Desalination | 2024 |
+
+---
+
+> 本轮新增 **20篇** 高质量文献，已更新至 DOI汇总.md
+> 搜索时间: 2026-04-08 22:38-22:42
